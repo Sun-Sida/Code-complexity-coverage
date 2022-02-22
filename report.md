@@ -6,9 +6,9 @@ has to be delivered in a standard, cross-platform format.
 
 ## Project
 
-Name:
+Name:Algorithms & data structures
 
-URL:
+URL:https://github.com/williamfiset/Algorithms
 
 One or two sentences describing it
 
