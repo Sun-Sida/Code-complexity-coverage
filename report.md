@@ -1,14 +1,14 @@
-﻿#Report for assignment 3
+﻿# Report for assignment 3
 
 This is a template for your report. You are free to modify it as needed. It is not required to use markdown for your report either, but the report has to be delivered in a standard, cross-platform format.
 
-##Project
+## Project
 
 **Name**: Algorithms & data structures project **URL**: <https://github.com/williamfiset/Algorithms>
 
 **One or two sentences describing it:** It is a Java-based project with 99.3% written in Java. The project includes a lot of algorithms and functions to solve problems in different categories like Math, Geometry and various collections of searching and sorting algorithms.
 
-##Onboarding experience
+## Onboarding experience
 
 **Did it build and run as documented?**
 
@@ -24,7 +24,7 @@ No other external tools were needed for this purpose. Also, all existing tests r
 
 **See the assignment for details; if everything works out of the box, there is no need to write much here. If the first project(s) you picked ended up being unsuitable, you can describe the "onboarding experience" for each project, along with the reason(s) why you changed to a different one.**
 
-##Complexity
+## Complexity
 
 **1.What are your results for six complex functions?**
 
