@@ -1,4 +1,4 @@
-﻿# Report for assignment 3
+# Report for assignment 3
 
 This is a template for your report. You are free to modify it as needed. It is not required to use markdown for your report either, but the report has to be delivered in a standard, cross-platform format.
 
