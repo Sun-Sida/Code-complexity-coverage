@@ -60,15 +60,23 @@ QuadTree: A QuadTree implementation with integer coordinates.
 
 Solution: This is the solution of the so-called Domino and Tromino tiling problem.
 
-TreePrinter: This is used to print a binary tree
+TreePrinter: This is used to print a binary tree.
+Suffixarrayfast: This function is used to capture and analyze the behavior of a suffix array.
+
+TreeIsomorphismWithBfs: This function is used to build a tree’s Isomorphism by using Breadth-first search.
+
+AVLTreeRecursive: This function is used to realize an AVL tree, which means the tree can self balance itself to keep operations logarithmic. 
+
 
 **4. Are exceptions taken into account in the given measurements?**
 
-Still has to be answered, I suppose this could explain why the manual count differs from the results given by Lizard!
+No, we do not think so. And this may explain why the manual count differs from the results given by Lizard. 
+
 
 **5.Is the documentation clear w.r.t. all the possible outcomes?**
 
-The Solution and the TreePrinter are clear, but the QuadTree is still under development.
+The Solution, the TreePrinter the Suffixarrayfast the TreeIsomorphismWithBfs and the AVLTreeRecursive are clear, but the QuadTree is still under development.
+
 
 Refactoring
 
